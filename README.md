@@ -1,5 +1,5 @@
 # Store-the-data-of-notebooks
-Simple C++ application that allow the user to store the data in a file , delete and update a record , search for a record 
+Simple Console C++ application that allow the user to store the data in a file , delete and update a record , search for a record 
 
 ## Functionalities :
  * Add new record, always add new records in the end of file. 
