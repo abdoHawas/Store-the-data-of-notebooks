@@ -1,7 +1,7 @@
 # Store-the-data-of-notebooks
 Simple C++ application that allow the user to store the data in a file , delete and update a record , search for a record 
 
- functionalities :
+ Functionalities :
  1-Add new record, always add new records in the end of file. 
  2-Delete a record, just marks the record by * exactly after records length.
  3-Update a record given the ID, if the new record is the same size, then insert in the same place, if size is changed,  perform delete then add operations.
